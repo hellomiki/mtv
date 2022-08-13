@@ -531,9 +531,7 @@
 "qiu.xixiqiu.com",
 "cdnjs.hnfenxun.com",
 "cms.qdwght.com"
-]
-}
-{
+
 "spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/custom_spider.jar",
 
 "sites": [
